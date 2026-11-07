@@ -54,3 +54,7 @@ application-my.yaml
 .DS_Store
 **/.DS_Store
 outputs/
+
+# Dependencias y copia de trabajo para previsualización local
+node_modules/
+/.local-preview/
